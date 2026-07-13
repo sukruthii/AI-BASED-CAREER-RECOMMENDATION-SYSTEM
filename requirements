@@ -1,0 +1,43 @@
+# Requirements
+
+## Hardware Requirements
+- Processor: Intel Core i3 or above
+- RAM: 4 GB minimum (8 GB recommended)
+- Storage: 2 GB free disk space
+- Operating System: Windows 10/11, macOS, or Linux
+
+## Software Requirements
+- Python 3.10 or above
+- Visual Studio Code (or any Python IDE)
+- Git (optional)
+- Web Browser (Chrome, Edge, or Firefox)
+
+## Python Libraries
+Install the required packages using:
+
+```bash
+pip install -r requirements.txt
+```
+
+Required libraries:
+- streamlit
+- pandas
+- numpy
+- scikit-learn
+- joblib
+- matplotlib
+- seaborn
+- nltk
+- spacy
+- requests
+
+## Dataset
+- Career recommendation dataset (CSV format)
+- User skills, interests, education, and career information
+
+## Features
+- User Registration/Login (optional)
+- Skill and Interest Analysis
+- Career Recommendation using Machine Learning
+- Career Information Display
+- User-Friendly Dashboard
